@@ -2,7 +2,7 @@
 Title: Unveiling the HTML & CSS Marvel: Netflix Home Page Recreation! 🍿🎉
 
 Description:
-Exciting news! I'm thrilled to present a screen recording of my Netflix home page recreation, now hosted on GitHub. Dive into the coding magic by visiting this link: [Netflix HTML & CSS](YourGitHubLink).
+Exciting news! I'm thrilled to present a screen recording of my Netflix home page recreation, now hosted on GitHub. Dive into the coding magic by visiting this link: 
 
 Features:
 
